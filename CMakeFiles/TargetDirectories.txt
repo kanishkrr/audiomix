@@ -1,0 +1,3 @@
+/Users/kanishk/Downloads/Dev/PythonProjects/audiomix/CMakeFiles/audiomix.dir
+/Users/kanishk/Downloads/Dev/PythonProjects/audiomix/CMakeFiles/edit_cache.dir
+/Users/kanishk/Downloads/Dev/PythonProjects/audiomix/CMakeFiles/rebuild_cache.dir
